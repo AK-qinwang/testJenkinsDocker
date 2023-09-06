@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: docker
+  port: 12000
